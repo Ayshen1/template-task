@@ -1,0 +1,15 @@
+.images {
+  height: 335px;
+  margin: 0 auto;
+  width: 90%;
+  ul {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    li {
+      img {
+        width: 95px;
+      }
+    }
+  }
+}
