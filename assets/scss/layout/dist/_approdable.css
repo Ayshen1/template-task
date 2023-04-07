@@ -1,0 +1,11 @@
+.container .approdable h6 {
+  font-family: Montserrat;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+  letter-spacing: 0.200000003px;
+  text-align: left;
+}
+.container .approdable h2 {
+  color: red;
+}

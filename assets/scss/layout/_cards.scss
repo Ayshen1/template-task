@@ -1,0 +1,47 @@
+.cards {
+    .row {
+        display: flex;
+gap: 40px;
+        .col-3 {
+
+            .card-item {
+                border: 1px solid rgb(173, 173, 173);
+                box-shadow: 5px 5px 5px #888888;
+                height: 240px;
+                width: 186px;
+                left: 0px;
+                top: 0px;
+                border-radius: 0px;
+                padding: 45px 40px 35px 40px;
+
+                i {
+                    font-size: 35px;
+                    background-color:#B2E3FF;
+                    border-radius: 50%;
+                }
+
+                h5 {
+
+                    font-family: Montserrat;
+                    font-size: 16px;
+                    font-weight: 700;
+                    line-height: 24px;
+                    letter-spacing: 0.10000000149011612px;
+                    text-align: left;
+                    color: #252B42;
+
+                }
+
+                p {
+                    font-family: Montserrat;
+                    font-size: 14px;
+                    font-weight: 400;
+                    line-height: 20px;
+                    letter-spacing: 0.20000000298023224px;
+                    text-align: left;
+                    color: #737373;
+                }
+            }
+        }
+    }
+}

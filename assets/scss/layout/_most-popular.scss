@@ -1,0 +1,37 @@
+.most-popular {
+    width: 100%;
+    margin: 10rem 0px;
+
+    .row {
+        display: flex;
+
+        .col-6 {
+            width: 50%;
+
+            h5 {
+
+                font-family: Montserrat;
+                font-size: 40px;
+                font-weight: 700;
+                letter-spacing: 0.20000000298023224px;
+                text-align: left;
+
+            }
+
+            p {
+                //styleName: paragraph;
+                font-family: Montserrat;
+                font-size: 14px;
+                font-weight: 400;
+                line-height: 20px;
+                letter-spacing: 0.20000000298023224px;
+                text-align: left;
+
+            }
+
+            img {
+                width: 80%;
+            }
+        }
+    }
+}

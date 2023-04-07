@@ -1,0 +1,11 @@
+.for-future {
+  width: 100%;
+  height: 70vh;
+  padding-top: 100px;
+  background-image: url("../images/background.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.for-future .for-future-content {
+  width: 50%;
+}
